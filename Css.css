@@ -27,7 +27,7 @@ body
 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: 300px 280px ;
+    grid-template-rows: 360px 280px ;
     grid-template-areas: "box-1 box-1 box-2 box-5"
                          "box-3 box-4 box-4 box-5";
     gap: 2em;
@@ -138,4 +138,5 @@ h1
     height: auto;
   }
 }
+
 
