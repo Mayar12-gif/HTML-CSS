@@ -45,6 +45,11 @@ img
     transform: scale(0.5);
 }
 
+.daniel
+{
+    transform: scale(0.4);
+
+}
 
 img.pattern-quotation
 {
@@ -138,3 +143,4 @@ h1
     height: auto;
   }
 }
+
